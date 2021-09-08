@@ -16,3 +16,38 @@ main {
     box-shadow: 2px 2px 5px rgba(1,1,1,.5);
     background-color: white;
 }
+
+h1 {
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+
+h2 {
+    font-size: 1,5em;
+    color: rgb(58, 0, 112);
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.lado {
+    display: block;
+    float: right;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(55, 55, 199);
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.volta {
+    display: block;
+    float: left;
+}
