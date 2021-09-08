@@ -10,9 +10,9 @@ body {
 }
 
 main {
-    width: 600px;
+    width: 560px;
     margin: auto;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 2px 2px 5px rgba(1,1,1,.5);
     background-color: white;
 }
@@ -38,7 +38,7 @@ p {
 }
 
 a {
-    color: rgb(14, 14, 212);
+    color: rgb(58,0,112);
     text-decoration: none;
 }
 
