@@ -46,3 +46,8 @@ a:hover {
     color: blue;
     text-decoration: underline;
 }
+
+.volta {
+    display: block;
+    float: left;
+}
