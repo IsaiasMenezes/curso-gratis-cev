@@ -23,7 +23,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: rgb(58, 0, 112);
 }
 
@@ -38,7 +38,7 @@ p {
 }
 
 a {
-    color: rgb(54, 54, 228);
+    color: rgb(14, 14, 212);
     text-decoration: none;
 }
 
@@ -50,4 +50,8 @@ a:hover {
 .volta {
     display: block;
     float: left;
+}
+
+.link {
+    text-align: left;
 }
