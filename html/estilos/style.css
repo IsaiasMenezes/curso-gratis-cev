@@ -23,7 +23,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1,5em;
+    font-size: 1.8em;
     color: rgb(58, 0, 112);
 }
 
@@ -38,8 +38,8 @@ p {
 }
 
 a {
-    font-size: 20px;
     color: rgb(55, 55, 199);
+    text-decoration: none;
 }
 
 a:hover {
